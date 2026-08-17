@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## yusa
+hey, im an engineering student and i am completely incapable of getting in my own way with anything in my life. so I figured studying for 4 different degrees simultaneously would be a great addition to everything going on and am currently juggling an EEE and CmpE BSE, MIS BSc and an architectural restoration AA.
 <!--
 **yehpop/yehpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
