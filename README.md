@@ -34,7 +34,7 @@ i'll add some stuff around here when i feel i've done stuff worth adding, even i
 
 im still just 20 god i think its okay i slack around a bit write stupid stuff do cringe things have my fun and complain about simple ass things
 
-im kind of obsess over structure and organization and would rather spend days planning the structuring of something, write guidelines and make sure everything looks orderly while i should do work. seems more like procrastination to me.
+i kind of obsess over structure and organization and would rather spend days planning the structuring of something, write guidelines and make sure everything looks orderly while i should do work. seems more like procrastination to me.
 <!--
 **yehpop/yehpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
